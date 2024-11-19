@@ -15,4 +15,4 @@ Modules include:
 9. Marketing.
 10. Supply Chain.
 
-Author : Sudhir Venugopal/India/Bangalore
+Author/Programmer : Sudhir Venugopal/India/Bangalore
